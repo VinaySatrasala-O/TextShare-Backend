@@ -18,6 +18,7 @@ app.use(cors({
   credentials: true,              // Allow credentials (cookies)
 }));
 
+// check
 
 declare global {
   namespace Express {
